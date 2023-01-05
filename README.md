@@ -12,6 +12,21 @@ Large-scale annotated datasets have proven to empower deep neural networks. Howe
 
 ![diffusion](images/mygif.gif)
 
+*Interpolation*
+<p align="center" width="100%">
+<img src="images/interp_covid.png" alt="" width= '800px'/>
+</p>
+
+
+*Inpainting*
+<p align="center" width="100%">
+<img src="images/inpaint_covid.png" alt="" width= '200px'/>
+<img src="images/inpaint_normal.png" alt="" width= '200px'/>
+<img src="images/inpaint_bac.png" alt="" width= '200px'/>
+<img src="images/inpaint_vir.png" alt="" width= '200px'/>
+</p>
+
+
 **DATASET**
 
 COVID-19 X-rays chest scans images, 4 classes classification task:
