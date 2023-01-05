@@ -1,7 +1,7 @@
 # DDIM-based Synthetic Medical Image Augmentation for increased CNN Performance in COVID-19 Classification
 
 The project has been developed for the "Generative Deep Learning" course of Prof. Danilo Comminiello, A.Y. 2021-2022.
-
+Based on the [previous project](https://github.com/rossettisimone/AUGMENTATION_DDIM).
 **AUTHORS**
 
 Simone Rossetti, Roma, December 2022
