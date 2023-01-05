@@ -40,7 +40,7 @@ more about dataset source [here](https://github.com/ieee8023/covid-chestxray-dat
 **DOCUMENTATION**: 
 
 <p align="center" width="100%">
-<img src="images/results.png" alt="" width= '300px'/>
+<img src="images/results.png" alt="" width= '600px'/>
 </p>
 
 more informations about the work done [here](/report.pdf).
